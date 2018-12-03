@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543853092 source:c:\users\harakaly.zoltan\documents\tomb_kiirasa\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
