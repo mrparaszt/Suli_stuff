@@ -1,0 +1,6 @@
+rekurzivan elore - haturla tomb
+sor min, max
+variacio(n, k) (perm + comb)
+permutacio(n)
+combinacio(n,k) (pascal haromszog)
+rekurzivan atlag szamitas
