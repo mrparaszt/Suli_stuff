@@ -4,3 +4,5 @@ variacio(n, k) (perm + comb)
 permutacio(n)
 combinacio(n,k) (pascal haromszog)
 rekurzivan atlag szamitas
+polinom
+int polinom(int *a, int n, int i, int x, int hatvanyx);
