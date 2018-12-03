@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543833833 source:e:\codeblocks\programok\nyereg_p\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+

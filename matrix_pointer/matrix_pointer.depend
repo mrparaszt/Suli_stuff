@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543759608 source:e:\codeblocks\programok\matrix_pointer\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
