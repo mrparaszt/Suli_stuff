@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1536347269 source:e:\codeblocks\programok\guess_number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1536330653 e:\codeblocks\programok\guess_number\randint.c
+
