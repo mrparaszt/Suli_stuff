@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544375966 source:e:\codeblocks\programok\rekurziv_atlag\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
