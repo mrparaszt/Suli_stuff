@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545064716 source:c:\users\harakaly.zoltan\documents\random_meret_tomb\main.c
+	<stdio.h>
+	<stdlib.h>
+
