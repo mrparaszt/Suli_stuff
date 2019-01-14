@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542040614 source:c:\users\harakaly.zoltan\documents\csigamatrix\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1542629656 source:e:\codeblocks\programok\csigamatrix\main.cpp
+	<iostream>
+	<stdlib.h>
+

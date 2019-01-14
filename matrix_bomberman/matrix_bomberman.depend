@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541425987 source:e:\codeblocks\programok\matrix_bomberman\main.cpp
+	<iostream>
+	<cstdlib>
+
